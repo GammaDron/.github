@@ -18,8 +18,8 @@
 | <img src="https://github.com/user-attachments/assets/59d3d68b-4fe0-4c1e-b5a4-bfd9b4c9ae7c" height="60" /> | Software for rapid and powerful conversions of radiation data formats of the industry. | [![book][book-icon]][radixml-docs] |
 | <img src="https://github.com/user-attachments/assets/e3c5d3c4-c580-4cc2-9223-ba966e8646a9" height="60" /> | Real-time LiDAR point cloud processing and 3D environment reconstruction. | [![book][book-icon]][livedar-docs] |
 
-[book-icon]: https://github.com/user-attachments/assets/c89f708a-4fb9-4454-9c2c-e01bfd0955be "40x40"
-[proj-icon]: https://github.com/user-attachments/assets/f9060d52-b60f-4cbc-8301-a41b1858ea7f "40x40"
+[book-icon]: https://github.com/user-attachments/assets/c89f708a-4fb9-4454-9c2c-e01bfd0955be height="40" width="40"
+[proj-icon]: https://github.com/user-attachments/assets/f9060d52-b60f-4cbc-8301-a41b1858ea7f height="40" width="40"
 
 [gcs-docs]: https://docs.rimaspec.upc.edu/books/guia-de-desarrollo-gcs
 [gdron-docs]: https://docs.rimaspec.upc.edu/books/aire
