@@ -6,7 +6,7 @@
 
 <br>
 
-| Logo | Description | Documentation |
+| Logo | Description | Documentation/Projects |
 | :--- | :--- | :---: |
 | <img src="https://github.com/user-attachments/assets/d27a8c5c-5911-462f-84a5-56a9fd9791a1" height="60" /> | Ground Control Station for real-time telemetry, radiation measurements and computations all in a full GIS package. Both Online and Offline | [<img width="40" height="40" alt="book" src="https://github.com/user-attachments/assets/c89f708a-4fb9-4454-9c2c-e01bfd0955be" />](https://github.com/your-org/GCS/tree/main/docs) <img width="40" height="40" src="https://github.com/user-attachments/assets/f9060d52-b60f-4cbc-8301-a41b1858ea7f" /> |
 | <img src="https://github.com/user-attachments/assets/1ef7c3bd-c2d8-4b43-ba87-d91345b9d45c" height="60" /> | Drone/Backpack integration for radiation data acquisition and telemetry. | [<img width="40" height="40" alt="book" src="https://github.com/user-attachments/assets/c89f708a-4fb9-4454-9c2c-e01bfd0955be" />](https://github.com/your-org/GammaDron/tree/main/docs) <img width="40" height="40" src="https://github.com/user-attachments/assets/f9060d52-b60f-4cbc-8301-a41b1858ea7f" /> |
