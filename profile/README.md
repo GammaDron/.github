@@ -8,18 +8,18 @@
 
 | Logo | Description | Documentation/Projects |
 | :--- | :--- | :---: |
-| <img src="https://github.com/user-attachments/assets/d27a8c5c-5911-462f-84a5-56a9fd9791a1" height="60" /> | Ground Control Station for real-time telemetry, radiation measurements and computations all in a full GIS package. Both Online and Offline | [![book][book-icon]][gcs-docs] [![project][proj-icon]][gcs-proj] |
-| <img src="https://github.com/user-attachments/assets/1ef7c3bd-c2d8-4b43-ba87-d91345b9d45c" height="60" /> | Drone/Backpack integration for radiation data acquisition and telemetry. | [![book][book-icon]][gdron-docs] [![project][proj-icon]][gdron-proj] |
-| <img src="https://github.com/user-attachments/assets/1284b002-3a76-4d90-a71e-5006d83dca32" height="60" /> | Mixed Reality system for visualizing radiation around an environment. | [![book][book-icon]][gvision-docs] [![project][proj-icon]][gvision-proj] |
-| <img src="https://github.com/user-attachments/assets/6eede4e0-7941-42ed-93e8-efc3254e056a" height="60" /> | Lightweight and simplified version of GCS designed for HeliRad and RadiaSight. | [![book][book-icon]][gcslite-docs] |
-| <img src="https://github.com/user-attachments/assets/bf4acbf3-1bd7-4fa1-9223-0e228d9ba62a" height="60" /> | Autonomous or indicative drone for locating and measuring radiation sources precisely. | [![book][book-icon]][hseeker-docs] |
-| <img src="https://github.com/user-attachments/assets/a5dc7de2-2fd9-4dab-b3ea-f5b414d2a3ce" height="60" /> | Visualizing invisible threats through real-time radiation sensor fusion. | [![book][book-icon]][rsight-docs] [![project][proj-icon]][rsight-proj] |
-| <img src="https://github.com/user-attachments/assets/050fbb29-3f65-4b84-b682-d0858706c10f" height="60" /> | Gamma detection packaged for offline and on-board a helicopter. | [![book][book-icon]][helirad-docs] |
-| <img src="https://github.com/user-attachments/assets/59d3d68b-4fe0-4c1e-b5a4-bfd9b4c9ae7c" height="60" /> | Software for rapid and powerful conversions of radiation data formats of the industry. | [![book][book-icon]][radixml-docs] |
-| <img src="https://github.com/user-attachments/assets/e3c5d3c4-c580-4cc2-9223-ba966e8646a9" height="60" /> | Real-time LiDAR point cloud processing and 3D environment reconstruction. | [![book][book-icon]][livedar-docs] |
+| <img src="https://github.com/user-attachments/assets/d27a8c5c-5911-462f-84a5-56a9fd9791a1" height="60" /> | Ground Control Station for real-time telemetry, radiation measurements and computations all in a full GIS package. Both Online and Offline | <a href="[gcs-docs]"><img src="[book-url]" width="40" height="40"></a> <a href="[gcs-proj]"><img src="[proj-url]" width="40" height="40"></a> |
+| <img src="https://github.com/user-attachments/assets/1ef7c3bd-c2d8-4b43-ba87-d91345b9d45c" height="60" /> | Drone/Backpack integration for radiation data acquisition and telemetry. | <a href="[gdron-docs]"><img src="[book-url]" width="40" height="40"></a> <a href="[gdron-proj]"><img src="[proj-url]" width="40" height="40"></a> |
+| <img src="https://github.com/user-attachments/assets/1284b002-3a76-4d90-a71e-5006d83dca32" height="60" /> | Mixed Reality system for visualizing radiation around an environment. | <a href="[gvision-docs]"><img src="[book-url]" width="40" height="40"></a> <a href="[gvision-proj]"><img src="[proj-url]" width="40" height="40"></a> |
+| <img src="https://github.com/user-attachments/assets/6eede4e0-7941-42ed-93e8-efc3254e056a" height="60" /> | Lightweight and simplified version of GCS designed for HeliRad and RadiaSight. | <a href="[gcslite-docs]"><img src="[book-url]" width="40" height="40"></a> |
+| <img src="https://github.com/user-attachments/assets/bf4acbf3-1bd7-4fa1-9223-0e228d9ba62a" height="60" /> | Autonomous or indicative drone for locating and measuring radiation sources precisely. | <a href="[hseeker-docs]"><img src="[book-url]" width="40" height="40"></a> |
+| <img src="https://github.com/user-attachments/assets/a5dc7de2-2fd9-4dab-b3ea-f5b414d2a3ce" height="60" /> | Visualizing invisible threats through real-time radiation sensor fusion. | <a href="[rsight-docs]"><img src="[book-url]" width="40" height="40"></a> <a href="[rsight-proj]"><img src="[proj-url]" width="40" height="40"></a> |
+| <img src="https://github.com/user-attachments/assets/050fbb29-3f65-4b84-b682-d0858706c10f" height="60" /> | Gamma detection packaged for offline and on-board a helicopter. | <a href="[helirad-docs]"><img src="[book-url]" width="40" height="40"></a> |
+| <img src="https://github.com/user-attachments/assets/59d3d68b-4fe0-4c1e-b5a4-bfd9b4c9ae7c" height="60" /> | Software for rapid and powerful conversions of radiation data formats of the industry. | <a href="[radixml-docs]"><img src="[book-url]" width="40" height="40"></a> |
+| <img src="https://github.com/user-attachments/assets/e3c5d3c4-c580-4cc2-9223-ba966e8646a9" height="60" /> | Real-time LiDAR point cloud processing and 3D environment reconstruction. | <a href="[livedar-docs]"><img src="[book-url]" width="40" height="40"></a> |
 
-[book-icon]: https://github.com/user-attachments/assets/c89f708a-4fb9-4454-9c2c-e01bfd0955be height="40" width="40"
-[proj-icon]: https://github.com/user-attachments/assets/f9060d52-b60f-4cbc-8301-a41b1858ea7f height="40" width="40"
+[book-url]: https://github.com/user-attachments/assets/c89f708a-4fb9-4454-9c2c-e01bfd0955be
+[proj-url]: https://github.com/user-attachments/assets/f9060d52-b60f-4cbc-8301-a41b1858ea7f
 
 [gcs-docs]: https://docs.rimaspec.upc.edu/books/guia-de-desarrollo-gcs
 [gdron-docs]: https://docs.rimaspec.upc.edu/books/aire
