@@ -7,7 +7,6 @@
 <br>
 
 | &nbsp; | &nbsp; |
-| :--- | :--- |
 | <a href="https://github.com/your-org/GCS"><img src="https://github.com/user-attachments/assets/d27a8c5c-5911-462f-84a5-56a9fd9791a1" height="60" /></a> | Ground Control Station for real-time telemetry, radiation measurements and computations all in a full GIS package. Both Online and Offline |
 | <a href="https://github.com/your-org/GammaDron"><img src="https://github.com/user-attachments/assets/1ef7c3bd-c2d8-4b43-ba87-d91345b9d45c" height="60" /></a> | Drone/Backpack integration for radiation data acquisition and telemetry. |
 | <a href="https://github.com/your-org/GammaVision"><img src="https://github.com/user-attachments/assets/1284b002-3a76-4d90-a71e-5006d83dca32" height="60" /></a> | Mixed Reality system for visualizing radiation around an environment. |
