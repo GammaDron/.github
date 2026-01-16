@@ -20,13 +20,13 @@
 
 [gcs-docs]: https://docs.rimaspec.upc.edu/books/guia-de-desarrollo-gcs
 [gdron-docs]: https://docs.rimaspec.upc.edu/books/aire
-[gvision-docs]: https://github.com/your-org/GammaVision/tree/main/docs
-[gcslite-docs]: https://github.com/your-org/GCSLite/tree/main/docs
-[hseeker-docs]: https://github.com/your-org/HeatSeeker/tree/main/docs
+[gvision-docs]: https://docs.rimaspec.upc.edu/books/gammavision
+[gcslite-docs]: https://docs.rimaspec.upc.edu/books/gcs-lite
+[hseeker-docs]: https://docs.rimaspec.upc.edu/books/heatseeker
 [rsight-docs]: https://docs.rimaspec.upc.edu/books/radiasight
-[helirad-docs]: https://github.com/your-org/HeliRad/tree/main/docs
-[radixml-docs]: https://github.com/your-org/RadiXML/tree/main/docs
-[livedar-docs]: https://github.com/your-org/LiveDAR/tree/main/docs
+[helirad-docs]: https://docs.rimaspec.upc.edu/books/helirad
+[radixml-docs]: https://docs.rimaspec.upc.edu/books/guia-de-usuario-de-radixml
+[livedar-docs]: https://docs.rimaspec.upc.edu/books/livedar
 
 [gcs-proj]: https://github.com/orgs/GammaDron/projects/2
 [gdron-proj]: https://github.com/orgs/GammaDron/projects/7
