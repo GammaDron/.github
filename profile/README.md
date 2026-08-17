@@ -1,4 +1,4 @@
-<img width="2563" height="1703" alt="layer1-6" src="https://github.com/user-attachments/assets/a7959922-4334-485a-bbea-45208de249da" />
+<img width="1971" height="592" alt="rimaspec_github" src="https://github.com/user-attachments/assets/f932c590-cf09-4d2e-9ec1-04b4f049a79b" />
 
 <br>
 
@@ -17,6 +17,8 @@
 | <img src="https://github.com/user-attachments/assets/050fbb29-3f65-4b84-b682-d0858706c10f" height="60" /> | Gamma detection packaged for offline and on-board a helicopter. | [<img src="https://github.com/user-attachments/assets/c89f708a-4fb9-4454-9c2c-e01bfd0955be" width="40" height="40" />][helirad-docs] | [<img src="https://github.com/user-attachments/assets/f9060d52-b60f-4cbc-8301-a41b1858ea7f" width="40" height="40" />][helirad-proj] | 🟢 |
 | <img src="https://github.com/user-attachments/assets/59d3d68b-4fe0-4c1e-b5a4-bfd9b4c9ae7c" height="60" /> | Software for rapid and powerful conversions of radiation data formats of the industry. | [<img src="https://github.com/user-attachments/assets/c89f708a-4fb9-4454-9c2c-e01bfd0955be" width="40" height="40" />][radixml-docs] | [<img src="https://github.com/user-attachments/assets/f9060d52-b60f-4cbc-8301-a41b1858ea7f" width="40" height="40" />][radixml-proj] | 🟡 |
 | <img src="https://github.com/user-attachments/assets/e3c5d3c4-c580-4cc2-9223-ba966e8646a9" height="60" /> | Real-time LiDAR point cloud processing and 3D environment reconstruction. | [<img src="https://github.com/user-attachments/assets/c89f708a-4fb9-4454-9c2c-e01bfd0955be" width="40" height="40" />][livedar-docs] | [<img src="https://github.com/user-attachments/assets/f9060d52-b60f-4cbc-8301-a41b1858ea7f" width="40" height="40" />][livedar-proj] | 🟢 |
+| <img src="https://github.com/user-attachments/assets/e3c5d3c4-c580-4cc2-9223-ba966e8646a9" height="60" /> | Mission path planner specifically designed for radiation surveys | [<img src="https://github.com/user-attachments/assets/c89f708a-4fb9-4454-9c2c-e01bfd0955be" width="40" height="40" />][livedar-docs] | [<img src="https://github.com/user-attachments/assets/f9060d52-b60f-4cbc-8301-a41b1858ea7f" width="40" height="40" />][radpath-docs] | 🔴 |
+
 
 [gcs-docs]: https://docs.rimaspec.upc.edu/books/guia-de-desarrollo-gcs
 [gdron-docs]: https://docs.rimaspec.upc.edu/books/aire
@@ -27,6 +29,7 @@
 [helirad-docs]: https://docs.rimaspec.upc.edu/books/helirad
 [radixml-docs]: https://docs.rimaspec.upc.edu/books/guia-de-usuario-de-radixml
 [livedar-docs]: https://docs.rimaspec.upc.edu/books/livedar
+[radpath-docs]: https://github.com/orgs/GammaDron/projects/6
 
 [gcs-proj]: https://github.com/orgs/GammaDron/projects/2
 [gdron-proj]: https://github.com/orgs/GammaDron/projects/7
@@ -37,6 +40,7 @@
 [livedar-proj]: https://github.com/orgs/GammaDron/projects/14
 [gvision-proj]: https://github.com/orgs/GammaDron/projects/3
 [rsight-proj]: https://github.com/orgs/GammaDron/projects/6
+[radpath-proj]: https://github.com/orgs/GammaDron/projects/6
 
 ### Legend
 * 🟣 **Fully Functional**
