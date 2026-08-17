@@ -1,7 +1,5 @@
 <img width="1971" height="592" alt="rimaspec_github" src="https://github.com/user-attachments/assets/10b7e180-6dd9-4e9c-873a-b1f2056ef123" />
 
-<br>
-
 ---
 
 <br>
